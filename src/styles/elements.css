@@ -1,0 +1,31 @@
+h1 {
+  font-size: 3em;
+  color: #3fddff;
+}
+
+
+a:hover {
+  text-decoration: none;
+  color: #3fddff;
+}
+
+div {
+  color: white;
+}
+
+input, textarea, select {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .08);
+  margin-bottom: 1.5em;
+  padding: .5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+textarea {
+  height: 6em;
+}
+
+label {
+  display: none;
+}

@@ -1,0 +1,22 @@
+.contact-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 2em;
+}
+
+.contact-container-text {
+  flex-grow: 2;
+}
+
+.contact-container-form {
+  flex-grow: 1;
+}
+
+.contact-input-container {
+  display: flex;
+  flex-direction: column;
+}
